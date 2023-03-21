@@ -26,8 +26,6 @@
    * [Try Django 3.2 - Coding Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL)
    * [Django (3.0) Crash Course Tutorials - DennisIvy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
    * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-   * Testing
-     * [Pytest Mastery with Django - Very Acadmy](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw3ilqDR8_qezp76QuEOlHY)
 
 * **Websites**
    * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
@@ -43,13 +41,15 @@
 ---
 
 ## ⭐ Django REST framework <font size="4">*level 2*</font>
-* **Courses**
+* **DRF Courses**
    * [APIs - Meta Course](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer) (Recommended)
    * [Learn Django Rest Framework - Very Academy](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw0PjVwymNc64NkUNbZlhFw)
    * [Introduction to Django Rest Framework - Vitor Freitas](https://www.youtube.com/playlist?list=PLLxk3TkuAYnrO32ABtQyw2hLRWt1BUrhj)
    * [Build an API with Django - JustDjango](https://www.youtube.com/playlist?list=PLLRM7ROnmA9HzbIXYN6D3wOZ0wUrqNs_d)
    * [Mastering Django and Django Rest Framework Specialization - Coursera](https://www.coursera.org/specializations/codio-advanced-django-and-django-rest-framework) 
    * [Building HTTP APIs With Django REST Framework - realpython](https://realpython.com/courses/django-rest-framework/)
+* **Testing**
+    * [Pytest Mastery with Django - Very Acadmy](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caw3ilqDR8_qezp76QuEOlHY)
 
 * **Books 📚**
    * Django for API, William S Vincent

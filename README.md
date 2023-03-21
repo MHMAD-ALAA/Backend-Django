@@ -2,7 +2,12 @@
 
 ### That's the palce where you find all work for django circle such as Roadmap, tasks, bootcamps code, etc.
 ---
-
+## Prerequirments
+* **Entry Level**
+    * Databases
+    * Networking
+    * basic html, css
+---
 ## Roadmap
 >> [django roadmap][roadmap-url]
 ---
@@ -23,5 +28,5 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[roadmap-url]: https://www.djangoproject.com/
+[roadmap-url]: https://github.com/MHMAD-ALAA/Backend-Django/blob/main/Roadmap.md
 [task1-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Hello%20django
