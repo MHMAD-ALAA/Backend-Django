@@ -5,7 +5,7 @@
 ## ⭐ Python 
 
 * **Courses**
-   * [Python for Everybody - Full Course with Dr. Chuck](https://www.youtube.com/watch?v=8DvywoWv6fI) [x]
+   * [Python for Everybody - Full Course with Dr. Chuck](https://www.youtube.com/watch?v=8DvywoWv6fI) - [x]
    * [Programming in python - Meta Course](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
    * [CS50 2016 - Week 8 - Python](https://www.youtube.com/watch?v=5aP9Bl9hcqI)
    * [Python OOP Tutorials - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
