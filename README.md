@@ -1,6 +1,6 @@
-# CAT Backend <font size="4">*Django subcircle*</font>
+# CAT Backend <font size="3">*Django subcircle*</font>
 
-### That's the palce where you find all work for django circle such as Roadmap, tasks, bootcamps code, etc.
+#### That's the palce where you find all work for django circle such as Roadmap, tasks, bootcamps code, etc.
 ---
 ## Prerequirments
 * **Entry Level**
@@ -9,7 +9,7 @@
     * basic html, css
 ---
 ## Roadmap
->> [django roadmap][roadmap-url]
+ *  [Django roadmap][roadmap-url]
 ---
 ## Tasks
 ### How to submit tasks? 
