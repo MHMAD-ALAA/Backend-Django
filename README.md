@@ -1,11 +1,12 @@
-# CAT Backend <font size="2">*Django subcircle*</font>
+<!-- # CAT Backend <font size="2">*Django subcircle*</font>
 
-<!-- #### That's the palce where you find all work for django circle such as Roadmap, tasks, bootcamps code, etc. -->
+#### That's the palce where you find all work for django circle such as Roadmap, tasks, bootcamps code, etc. -->
 
 <div align="center">
 <img src="docs/CATReloaded.png" width="500">
 </div>
----
+
+--- 
 
 ## Prerequirments
 * **Entry Level**
