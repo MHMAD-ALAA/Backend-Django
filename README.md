@@ -1,4 +1,4 @@
-# CAT Backend <font size="3">*Django subcircle*</font>
+# CAT Backend <font size="2">*Django subcircle*</font>
 
 #### That's the palce where you find all work for django circle such as Roadmap, tasks, bootcamps code, etc.
 ---
