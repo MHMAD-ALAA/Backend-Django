@@ -2,9 +2,11 @@
 
 <!-- #### That's the palce where you find all work for django circle such as Roadmap, tasks, bootcamps code, etc. -->
 
-![](https://github.com/sakhawy/CATCAMP2023/blob/main/docs/CATReloaded.png "")
-
+<div align="center">
+<img src="docs/CATReloaded.png" width="500">
+</div>
 ---
+
 ## Prerequirments
 * **Entry Level**
     * Databases
