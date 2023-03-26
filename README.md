@@ -19,13 +19,13 @@
 ---
 ## Tasks
 ### How to submit tasks? 
-* fork the repo 
-* clone to your local machine 
-* create a branch for the task 
-* update task directory with your response
-* commit and push your work to github
-* pull request the work you done
-* review your teammates pr's
+* Fork the repo 
+* Clone to your local machine 
+* Create a branch for the task 
+* Update task directory with your response
+* Commit and Push your work to github
+* Pull request the work you done
+* Review your teammates pr's
 
 
 ### Weekly tasks
@@ -39,4 +39,4 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [roadmap-url]: https://github.com/MHMAD-ALAA/Backend-Django/blob/main/Roadmap.md
 [djtask1-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Hello%20django
-[py-url]: 
+[py-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Intro%20to%20python
