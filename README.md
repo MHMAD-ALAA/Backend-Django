@@ -23,16 +23,20 @@
 * clone to your local machine 
 * create a branch for the task 
 * update task directory with your response
+* commit and push your work to github
 * pull request the work you done
 * review your teammates pr's
 
 
 ### Weekly tasks
+* Python 
+    * [python Intro][py-url]
 * Django
-    * [hello django][task1-url]
+    * [hello django][djtask1-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [roadmap-url]: https://github.com/MHMAD-ALAA/Backend-Django/blob/main/Roadmap.md
-[task1-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Hello%20django
+[djtask1-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Hello%20django
+[py-url]: 
