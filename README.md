@@ -48,4 +48,4 @@ For example, you could use a naming convention like:\
 [roadmap-url]: https://github.com/MHMAD-ALAA/Backend-Django/blob/main/Roadmap.md
 [djtask1-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Hello%20django
 [py-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Intro%20to%20python
-[djtask2-url]: asd
+[djtask2-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Ahlan%20Ramadan
