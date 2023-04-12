@@ -18,6 +18,21 @@
  *  [Django roadmap][roadmap-url]
 ---
 ## Tasks
+### Weekly tasks
+* Python 
+    * [python Intro][py-url]
+* Django
+    * [hello django][djtask1-url]
+    * [django Ahlan Ramadan][djtask2-url]
+
+    
+### Tasks structure
+```
+├── hello_django                <- task folder   
+    └── hello_django_Mohamed_Alaa   <- response naming convention
+        └── code
+```
+
 ### How to submit tasks? 
 1. Clone the repository to your local machine using:\
  <font size="4">*git clone*</font>
@@ -33,14 +48,6 @@ For example, you could use a naming convention like:\
 *username:feature/feature-name* or *username:bugfix/bugfix-name*.
 
     [Pull request refrence](https://youtu.be/8lGpZkjnkt4)
-
-
-### Weekly tasks
-* Python 
-    * [python Intro][py-url]
-* Django
-    * [hello django][djtask1-url]
-    * [django Ahlan Ramadan][djtask2-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
