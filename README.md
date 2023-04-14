@@ -53,4 +53,4 @@ For example, you could use a naming convention like:\
 [djtask1-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Hello%20django
 [py-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Intro%20to%20python
 [djtask2-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Ahlan%20Ramadan
-[py-oop-url]: ds
+[py-oop-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/python%20OOP
