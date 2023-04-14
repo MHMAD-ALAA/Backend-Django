@@ -1,7 +1,3 @@
-<!-- # CAT Backend <font size="2">*Django subcircle*</font>
-
-#### That's the palce where you find all work for django circle such as Roadmap, tasks, bootcamps code, etc. -->
-
 <div align="center">
 <img src="docs/CATReloaded.png" width="500">
 </div>
@@ -21,6 +17,7 @@
 ### Weekly tasks
 * Python 
     * [python Intro][py-url]
+    * [python OOP][py-oop-url]
 * Django
     * [hello django][djtask1-url]
     * [django Ahlan Ramadan][djtask2-url]
@@ -56,3 +53,4 @@ For example, you could use a naming convention like:\
 [djtask1-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Hello%20django
 [py-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Intro%20to%20python
 [djtask2-url]: https://github.com/MHMAD-ALAA/Backend-Django/tree/main/Ahlan%20Ramadan
+[py-oop-url]: ds
